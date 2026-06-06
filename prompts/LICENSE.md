@@ -1,7 +1,3 @@
----
-created: 2026-06-06T19:12
-updated: 2026-06-07T00:07
----
 # Prompt License
 
 SPDX-License-Identifier: CC0-1.0
