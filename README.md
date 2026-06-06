@@ -178,5 +178,3 @@ This project is dual-licensed:
 
 - Source code, docs, and config are licensed under the MIT License.
 - Prompt templates are dedicated to the public domain under CC0 1.0 Universal.
-
-See [`LICENSE`](LICENSE.md) and [`prompts/LICENSE.md`](LICENSE.md) for details.
