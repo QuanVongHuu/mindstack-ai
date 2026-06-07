@@ -1,6 +1,6 @@
 # mindstack-ai: Tạo AI Agent Cá Nhân Với Tech Stack Dễ Bắt Đầu
 
-🌐 [English](Projects/mindstack-ai/README.md) | [Tiếng Việt](README.vi.md)
+🌐 [English](README.md) | [Tiếng Việt](README.vi.md)
 
 > mindstack-ai là bộ hướng dẫn no-code và low-code để tự tạo AI agent cá nhân bằng các công cụ dễ tiếp cận: Claude Cowork, Google connectors, OpenCode, MCP, Composio và Obsidian.
 
@@ -14,13 +14,13 @@ Bạn không cần biết lập trình. Cách nhanh nhất là copy prompt, thay
 
 ## Bắt Đầu Nhanh
 
-1. Mở [`prompts/morning-routine.md`](morning-routine.md).
+1. Mở [`prompts/morning-routine.md`](prompts/morning-routine.md).
 2. Thay các placeholder người dùng cần điền bằng tên, múi giờ, đường dẫn Obsidian hoặc thư mục Markdown và link Google Sheets của bạn.
 3. Dán prompt vào Claude Cowork.
 4. Kết nối Gmail, Calendar, Drive/Sheets và nơi lưu Markdown mà Obsidian có thể mở.
 5. Chạy thử một lần trước khi đặt lịch tự động.
 
-Prompt buổi tối nằm ở [`prompts/evening-reflection.md`](evening-reflection.md).
+Prompt buổi tối nằm ở [`prompts/evening-reflection.md`](prompts/evening-reflection.md).
 
 ## Luồng Dữ Liệu End-to-End
 
@@ -70,20 +70,20 @@ Nếu môi trường không thể tự ghi file, Claude sẽ xuất toàn bộ M
 
 ## Tài Liệu Hướng Dẫn
 
-Bắt đầu tại [`docs/README.md`](Projects/mindstack-ai/docs/README.md).
+Bắt đầu tại [`docs/README.md`](docs/README.md).
 
 Thứ tự no-code khuyến nghị:
 
-1. [`docs/00-why-obsidian.md`](00-why-obsidian.md)
-2. [`docs/01-getting-started.md`](01-getting-started.md)
-3. [`docs/02-claude-cowork-setup.md`](02-claude-cowork-setup.md)
-4. [`docs/04-google-sheets-links.md`](04-google-sheets-links.md)
-5. [`docs/05-morning-routine.md`](05-morning-routine.md)
-6. [`docs/06-evening-reflection.md`](06-evening-reflection.md)
-7. [`docs/07-faq.md`](07-faq.md)
-8. [`docs/08-troubleshooting.md`](08-troubleshooting.md)
+1. [`docs/00-why-obsidian.md`](docs/00-why-obsidian.md)
+2. [`docs/01-getting-started.md`](docs/01-getting-started.md)
+3. [`docs/02-claude-cowork-setup.md`](docs/02-claude-cowork-setup.md)
+4. [`docs/04-google-sheets-links.md`](docs/04-google-sheets-links.md)
+5. [`docs/05-morning-routine.md`](docs/05-morning-routine.md)
+6. [`docs/06-evening-reflection.md`](docs/06-evening-reflection.md)
+7. [`docs/07-faq.md`](docs/07-faq.md)
+8. [`docs/08-troubleshooting.md`](docs/08-troubleshooting.md)
 
-Sau khi no-code chạy ổn, xem thêm tầng low-code tùy chọn tại [`docs/03-opencode-mcp-composio-setup.md`](03-opencode-mcp-composio-setup.md).
+Sau khi no-code chạy ổn, xem thêm tầng low-code tùy chọn tại [`docs/03-opencode-mcp-composio-setup.md`](docs/03-opencode-mcp-composio-setup.md).
 
 ## Những Phần Phải Thay Trước Khi Dùng
 
@@ -120,7 +120,7 @@ URL: https://docs.google.com/spreadsheets/d/1abcDEF_fake_id_123/edit#gid=0
 ID:  1abcDEF_fake_id_123
 ```
 
-Xem hướng dẫn chi tiết tại [`docs/04-google-sheets-links.md`](04-google-sheets-links.md).
+Xem hướng dẫn chi tiết tại [`docs/04-google-sheets-links.md`](docs/04-google-sheets-links.md).
 
 ## Đóng Góp
 
@@ -135,4 +135,4 @@ Project này dùng dual license:
 - Source code, docs và config được cấp phép theo MIT License.
 - Prompt templates được đưa vào public domain theo CC0 1.0 Universal.
 
-Xem [`LICENSE`](LICENSE.md) và [`prompts/LICENSE.md`](LICENSE.md) để biết chi tiết.
+Xem [`LICENSE`](LICENSE) và [`prompts/LICENSE.md`](prompts/LICENSE.md) để biết chi tiết.

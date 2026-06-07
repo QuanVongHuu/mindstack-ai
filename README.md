@@ -1,6 +1,6 @@
 # mindstack-ai: Build Your First Personal AI Agent With an Easy Tech Stack
 
-🌐 [English](Projects/mindstack-ai/README.md) | [Tiếng Việt](README.vi.md)
+🌐 [English](README.md) | [Tiếng Việt](README.vi.md)
 
 > mindstack-ai is a no-code and low-code starter kit for building a personal AI agent using simple, accessible tools: Claude Cowork, Google connectors, OpenCode, MCP, Composio, and Obsidian.
 
@@ -28,13 +28,13 @@ You do not need to be a developer. Start by copying one prompt, replacing the pl
 
 ## Quick Start
 
-1. Open [`prompts/morning-routine.md`](morning-routine.md).
+1. Open [`prompts/morning-routine.md`](prompts/morning-routine.md).
 2. Replace the user-input placeholders with your own name, timezone, Obsidian or Markdown folder path, and Google Sheet links.
 3. Paste the prompt into Claude Cowork.
 4. Connect Gmail, Calendar, Drive/Sheets, and a Markdown storage destination that Obsidian can open.
 5. Run the prompt once manually before scheduling it.
 
-The evening workflow is in [`prompts/evening-reflection.md`](evening-reflection.md).
+The evening workflow is in [`prompts/evening-reflection.md`](prompts/evening-reflection.md).
 
 ## End-to-End Workflow
 
@@ -88,29 +88,29 @@ mindstack-ai/
 
 ## Prompts
 
-- [`prompts/morning-routine.md`](morning-routine.md) - public template adapted from a real Claude Cowork morning workflow.
-- [`prompts/evening-reflection.md`](evening-reflection.md) - public template for guided end-of-day review.
-- [`prompts/one-prompt-installer.md`](one-prompt-installer.md) - optional setup prompt for generating Claude Cowork prompts or OpenCode file setup from one place.
-- [`prompts/personalization-checklist.md`](personalization-checklist.md) - every private user-input field you must replace before using or sharing.
+- [`prompts/morning-routine.md`](prompts/morning-routine.md) - public template adapted from a real Claude Cowork morning workflow.
+- [`prompts/evening-reflection.md`](prompts/evening-reflection.md) - public template for guided end-of-day review.
+- [`prompts/one-prompt-installer.md`](prompts/one-prompt-installer.md) - optional setup prompt for generating Claude Cowork prompts or OpenCode file setup from one place.
+- [`prompts/personalization-checklist.md`](prompts/personalization-checklist.md) - every private user-input field you must replace before using or sharing.
 
 ## Full Setup Guide
 
-Start here: [`docs/README.md`](Projects/mindstack-ai/docs/README.md)
+Start here: [`docs/README.md`](docs/README.md)
 
 Recommended no-code path:
 
-1. [`docs/00-why-obsidian.md`](00-why-obsidian.md)
-2. [`docs/01-getting-started.md`](01-getting-started.md)
-3. [`docs/02-claude-cowork-setup.md`](02-claude-cowork-setup.md)
-4. [`docs/04-google-sheets-links.md`](04-google-sheets-links.md)
-5. [`docs/05-morning-routine.md`](05-morning-routine.md)
-6. [`docs/06-evening-reflection.md`](06-evening-reflection.md)
-7. [`docs/07-faq.md`](07-faq.md)
-8. [`docs/08-troubleshooting.md`](08-troubleshooting.md)
+1. [`docs/00-why-obsidian.md`](docs/00-why-obsidian.md)
+2. [`docs/01-getting-started.md`](docs/01-getting-started.md)
+3. [`docs/02-claude-cowork-setup.md`](docs/02-claude-cowork-setup.md)
+4. [`docs/04-google-sheets-links.md`](docs/04-google-sheets-links.md)
+5. [`docs/05-morning-routine.md`](docs/05-morning-routine.md)
+6. [`docs/06-evening-reflection.md`](docs/06-evening-reflection.md)
+7. [`docs/07-faq.md`](docs/07-faq.md)
+8. [`docs/08-troubleshooting.md`](docs/08-troubleshooting.md)
 
 Optional low-code path after the no-code workflow works:
 
-1. [`docs/03-opencode-mcp-composio-setup.md`](03-opencode-mcp-composio-setup.md)
+1. [`docs/03-opencode-mcp-composio-setup.md`](docs/03-opencode-mcp-composio-setup.md)
 
 ## Personalization Checklist
 
@@ -149,7 +149,7 @@ URL: https://docs.google.com/spreadsheets/d/1abcDEF_fake_id_123/edit#gid=0
 ID:  1abcDEF_fake_id_123
 ```
 
-Put either the full link or the ID into the prompt, depending on what your Claude connector or MCP tool supports. See [`docs/04-google-sheets-links.md`](04-google-sheets-links.md) for the full guide.
+Put either the full link or the ID into the prompt, depending on what your Claude connector or MCP tool supports. See [`docs/04-google-sheets-links.md`](docs/04-google-sheets-links.md) for the full guide.
 
 ## Requirements
 
@@ -178,3 +178,5 @@ This project is dual-licensed:
 
 - Source code, docs, and config are licensed under the MIT License.
 - Prompt templates are dedicated to the public domain under CC0 1.0 Universal.
+
+Read [`LICENSE`](LICENSE) and [`prompts/LICENSE.md`](prompts/LICENSE.md) for more details.
