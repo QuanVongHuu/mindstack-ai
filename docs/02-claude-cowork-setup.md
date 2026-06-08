@@ -35,7 +35,7 @@ If a sheet, calendar, or folder belongs to a different account, either connect t
 2. Open the area for scheduled work. This may be called `Claude Cowork`, `Tasks`, `Scheduled tasks`, or `Automations`.
 3. Click `New`, `Create task`, `New task`, or the `+` button.
 4. Name the task `mindstack-ai Morning Routine`.
-5. Open [`../prompts/morning-routine.md`](morning-routine.md).
+5. Open [`../prompts/morning-routine.md`](../prompts/morning-routine.md).
 6. Copy the prompt text inside the fenced code block.
 7. Paste it into the task instruction box.
 8. Replace every user-input placeholder with your real private values.
@@ -49,7 +49,7 @@ Do not turn on the final schedule until you have run the task manually once.
 1. Go back to the same `Tasks`, `Scheduled tasks`, or `Automations` area.
 2. Click `New`, `Create task`, `New task`, or the `+` button.
 3. Name the task `mindstack-ai Evening Reflection`.
-4. Open [`../prompts/evening-reflection.md`](evening-reflection.md).
+4. Open [`../prompts/evening-reflection.md`](../prompts/evening-reflection.md).
 5. Copy the prompt text inside the fenced code block.
 6. Paste it into the task instruction box.
 7. Replace every user-input placeholder with your real private values.

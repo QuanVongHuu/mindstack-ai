@@ -61,7 +61,7 @@ Use fake IDs in public examples:
 
 ## Optional OpenCode And Composio Fields
 
-These are only needed if you follow the low-code setup in [`../docs/03-opencode-mcp-composio-setup.md`](03-opencode-mcp-composio-setup.md).
+These are only needed if you follow the low-code setup in [`../docs/03-opencode-mcp-composio-setup.md`](../docs/03-opencode-mcp-composio-setup.md).
 
 - `{{COMPOSIO_USER_ID}}`
 - `{{COMPOSIO_MCP_URL}}`

@@ -21,11 +21,11 @@ A Markdown daily note with:
 - Evening Reflection placeholder.
 - AI Context Layer for due-today and upcoming tasks.
 
-For a filled fake prompt, see [`sample-morning-routine-prompt.md`](sample-morning-routine-prompt.md). For a complete fake output example, see [`sample-daily-morning-routine-Report.md`](sample-daily-morning-routine-Report.md).
+For a filled fake prompt, see [`../examples/sample-morning-routine-prompt.md`](../examples/sample-morning-routine-prompt.md). For a complete fake output example, see [`../examples/sample-daily-morning-routine-Report.md`](../examples/sample-daily-morning-routine-Report.md).
 
 ## Setup Steps
 
-1. Open [`../prompts/morning-routine.md`](morning-routine.md).
+1. Open [`../prompts/morning-routine.md`](../prompts/morning-routine.md).
 2. Replace all user-input placeholders.
 3. Paste into Claude Cowork.
 4. Run manually.

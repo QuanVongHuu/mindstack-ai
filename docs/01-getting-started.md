@@ -7,12 +7,12 @@ This page gives you the fastest path from zero to a working mindstack-ai system.
 1. Create or choose an Obsidian vault in a folder your tools can write to.
 2. Create a `Daily/` folder inside that vault.
 3. Connect Claude Cowork to Gmail, Google Calendar, Google Drive, and your note destination.
-4. Open [`../prompts/morning-routine.md`](morning-routine.md).
-5. Replace the user-input placeholders listed in [`../prompts/personalization-checklist.md`](personalization-checklist.md).
+4. Open [`../prompts/morning-routine.md`](../prompts/morning-routine.md).
+5. Replace the user-input placeholders listed in [`../prompts/personalization-checklist.md`](../prompts/personalization-checklist.md).
 6. Run the prompt manually.
 7. Fix connector/path errors.
 8. Schedule it for the morning.
-9. Repeat with [`../prompts/evening-reflection.md`](evening-reflection.md).
+9. Repeat with [`../prompts/evening-reflection.md`](../prompts/evening-reflection.md).
 
 ## Choose Your Track
 

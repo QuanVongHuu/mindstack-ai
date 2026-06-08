@@ -2,7 +2,7 @@
 
 Copy this into Claude Cowork as a scheduled morning task. Replace the user-input placeholders before running it, but leave assistant-generated placeholders such as `{{TODAY_ISO_DATE}}` and `{{DAY_1}}` inside the output template.
 
-For a fully filled fake prompt, see [`../examples/sample-morning-routine-prompt.md`](sample-morning-routine-prompt.md). For a fake generated daily note, see [`../examples/sample-daily-morning-routine-Report.md`](sample-daily-morning-routine-Report.md).
+For a fully filled fake prompt, see [`../examples/sample-morning-routine-prompt.md`](../examples/sample-morning-routine-prompt.md). For a fake generated daily note, see [`../examples/sample-daily-morning-routine-Report.md`](../examples/sample-daily-morning-routine-Report.md).
 
 ```markdown
 You are running the mindstack-ai daily morning routine for {{USER_NAME}} ({{TIMEZONE}}). Today's date is available from the system. Your job is to create a fresh daily note and help {{USER_NAME}} plan the day.

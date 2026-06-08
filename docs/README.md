@@ -47,4 +47,4 @@ Use [`03-opencode-mcp-composio-setup.md`](03-opencode-mcp-composio-setup.md) aft
 
 ## Vietnamese Note
 
-The main Vietnamese README is at [`../README.vi.md`](README.vi.md). Vietnamese docs can be added as `.vi.md` siblings, for example `01-getting-started.vi.md`.
+The main Vietnamese README is at [`../README.vi.md`](../README.vi.md). Vietnamese docs can be added as `.vi.md` siblings, for example `01-getting-started.vi.md`.

@@ -30,7 +30,7 @@ If the assistant asks all questions at once, the reflection becomes shallow. The
 
 ## Setup Steps
 
-1. Open [`../prompts/evening-reflection.md`](evening-reflection.md).
+1. Open [`../prompts/evening-reflection.md`](../prompts/evening-reflection.md).
 2. Replace all user-input placeholders.
 3. Paste into Claude Cowork.
 4. Run it on a test daily note.

@@ -124,7 +124,7 @@ OpenCode can create an `AGENTS.md` file that tells the assistant how to behave i
 
 2. Let OpenCode inspect the folder.
 3. Review the generated `AGENTS.md` before trusting it.
-4. For this repo, you can also copy from [`../examples/AGENTS.example.md`](AGENTS.example.md).
+4. For this repo, you can also copy from [`../examples/AGENTS.example.md`](../examples/AGENTS.example.md).
 
 The purpose of `AGENTS.md` is to remind the assistant to keep docs beginner-friendly, avoid secrets, use placeholders, and prefer small Markdown edits.
 

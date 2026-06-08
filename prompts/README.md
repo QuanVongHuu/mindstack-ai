@@ -11,6 +11,6 @@ Start here:
 5. Run once manually.
 6. Copy and schedule [`evening-reflection.md`](evening-reflection.md).
 
-For a filled fake morning prompt, see [`../examples/sample-morning-routine-prompt.md`](sample-morning-routine-prompt.md).
+For a filled fake morning prompt, see [`../examples/sample-morning-routine-prompt.md`](../examples/sample-morning-routine-prompt.md).
 
 Privacy rule: do not publish your real Google Sheet IDs, API keys, email addresses, or local file paths.

@@ -1,6 +1,6 @@
 # Sample Morning Routine Prompt
 
-This is a public-safe example based on [`../prompts/morning-routine.md`](morning-routine.md). It uses fake names, fake sheet IDs, fake connector names, and a fake Obsidian vault path.
+This is a public-safe example based on [`../prompts/morning-routine.md`](../prompts/morning-routine.md). It uses fake names, fake sheet IDs, fake connector names, and a fake Obsidian vault path.
 
 Do not use this exact prompt for a real workflow. Copy the structure only, then replace the fake values privately.
 
